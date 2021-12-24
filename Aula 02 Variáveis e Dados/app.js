@@ -15,5 +15,3 @@ var person = {
 }// object
 
 console.log(person.age)
-
-//teste commit
