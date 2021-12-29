@@ -17,3 +17,5 @@ function sum(number1, number2) {
 console.log (sum(10,50))
 console.log (sum(2,5))
 
+//test
+
