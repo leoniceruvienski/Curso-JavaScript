@@ -51,7 +51,7 @@ switch (trafficLight) {
 
 console.log(message)
 
-//test
+
 
 
 
