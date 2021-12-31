@@ -34,9 +34,6 @@ console.log(result)
  // condição ? true : false
  console.log(result)
 
-//test
-
-
 
 
 
